@@ -4,7 +4,7 @@ pin2 = ['99']
 pin3 = ['99']
 win = False
 # game loop
-x = int(input("Quantos discos?: "))
+x = int(input("how many discs?: "))
 while x > 0:
     pin1.append(str(x))
     winlist.append(str(x))
